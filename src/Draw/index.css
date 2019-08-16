@@ -1,0 +1,20 @@
+.draw-cell {
+    background-color: whitesmoke;
+    border-color: #cccccc;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+.draw-cell-highlight {
+    background-color: gray;
+}
+.draw-grid {
+   height: 100%;
+}
+.draw {
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 100vh;
+}

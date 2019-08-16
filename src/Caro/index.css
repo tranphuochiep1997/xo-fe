@@ -1,0 +1,35 @@
+.caro {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.side {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.board-container {
+}
+.caro-board {
+
+}
+.caro-row {
+}
+.cell {
+    background-color: whitesmoke;
+    border-color: #cccccc;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    float: left;
+    height: 49px;
+    width: 49px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.cell-highlight {
+    background-color: lightgray;
+}
