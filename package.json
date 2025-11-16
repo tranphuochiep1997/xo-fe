@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^1.13.0",
-    "eslint": "^6.1.0",
+    "eslint": "^9.39.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "socket.io-client": "^2.2.0",
     "ts-pnp": "^1.1.2",
     "typescript": "^3.5.3",
